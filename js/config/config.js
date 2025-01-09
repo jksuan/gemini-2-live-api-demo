@@ -1,7 +1,7 @@
 export const CONFIG = {
     API: {
         KEY: 'AIzaSyBr8D8T03F0_CSoQjoeQbi_9ysEeG2Zjmg',
-        BASE_URL: 'wss://generativelanguage.googleapis.com/ws',
+        BASE_URL: 'wss://gemini-websocket-proxy.08612345.xyz/ws',
         VERSION: 'v1alpha',
         MODEL_NAME: 'models/gemini-2.0-flash-exp'
     },
